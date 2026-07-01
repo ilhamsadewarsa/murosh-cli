@@ -1,0 +1,6 @@
+[project]
+name = "murosh"
+version = "0.1.0"
+
+[project.scripts]
+murosh = "main:main"
