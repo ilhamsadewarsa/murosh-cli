@@ -152,8 +152,8 @@ def read(spec):
     print(f"{name} -> ongoing")
     return
 
-       
-if __name__ == '__main__':
+def main():
+    
     load()
     args = sys.argv
     caller = args[0] if len(args) > 0 else EMPTYSTRING
