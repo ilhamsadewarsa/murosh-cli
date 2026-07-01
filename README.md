@@ -13,7 +13,7 @@ Murosh or Murajaah Shell is a Simple CLI for tracking and planning murojaah from
 ```bash
 git clone https://github.com/ilhamsadewarsa/murosh-cli
 cd murosh-cli
-pip install -e
+pip install -e .
 ```
 ## Available Command ✒️
 - `murosh`
